@@ -2,9 +2,6 @@
               
 ## Today's class learning
 
-<ol>
-  <li>FHTML Anatomy</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol>
+1. s,djhkfglksj
+2. ,shdvadskj
+3. lshvldfkhvO;
