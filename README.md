@@ -3,7 +3,7 @@
 ## Today's class learning
 
 <ol>
-  <li>First item</li>
+  <li>FHTML Anatomy</li>
   <li>Second item</li>
   <li>Third item</li>
   <li>Fourth item</li>
