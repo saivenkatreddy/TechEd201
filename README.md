@@ -2,6 +2,7 @@
               
 ## Today's class learning
 
-> s,djhkfglksj
-2. ,shdvadskj
-3. lshvldfkhvO;
+> HTML Anatomy
+> How the website works
+> Website design and process
+
