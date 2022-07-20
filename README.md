@@ -9,5 +9,4 @@
 
 > Website design and process
 
-# EVM -> Polgyon Daytime course
-![Hero Img](html.jpeg)
+
